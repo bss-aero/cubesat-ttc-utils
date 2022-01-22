@@ -1,0 +1,10 @@
+SPEED_OF_LIGHT = 299792458  # m/s
+BODY_RADIUS = 6378e3  # m
+BODY_PERIOD = 86164.09053083288  # s (sidereal day)
+BODY_MU = 3.986004418e14  # m^3 s^-2
+BODY_J2 = 1.08263e-3  # m^5 s^2
+
+AX25_T102 = 100  # ms
+AX25_T103 = 300  # ms
+AX25_T2 = 50  # ms
+AX25_P = 63
